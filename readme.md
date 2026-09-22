@@ -47,7 +47,7 @@ Ao longo da construção, o prompt foi refinado com critérios objetivos de urg�
 
 ## 🎓 Contexto do desafio
 
-Projeto desenvolvido como parte da trilha **Introdução à Programação na Era dos Agentes de IA**, no curso **DIO + Santander Open Academy**.
+Projeto desenvolvido como parte da trilha **Fundamentos de Dados: Excel, SQL e Business Intelligence**, no curso **DIO + Santander Open Academy**.
 
 ---
 
